@@ -67,6 +67,7 @@ function google_fonts() {
 }
 
 add_action('wp_head', 'meta_theme_color');
+add_action('wp_head', 'new_adsense_verification');
 add_action('wp_head', 'gtag_js');
 add_action('wp_head', 'og_required');
 add_action('wp_head', 'og_image');
