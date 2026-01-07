@@ -13,6 +13,12 @@ function meta_theme_color() {
 <?php
 }
 
+function new_adsense_verification() {
+?>
+    <meta name="google-adsense-account" content="ca-pub-3530562018061148">
+<?php
+}
+
 function gtag_js() {
 ?>
     <!-- Google tag (gtag.js) -->
