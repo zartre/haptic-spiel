@@ -1,0 +1,10 @@
+/* Night mode: override theme.json color presets for users who prefer a dark color scheme. */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--wp--preset--color--base: #030303;
+		--wp--preset--color--contrast: #fcfcfc;
+		--wp--preset--color--primary: #5b9bff;
+		--wp--preset--color--secondary: #e0e0e0;
+		--wp--preset--color--tertiary: #a3a3a3;
+	}
+}

@@ -36,6 +36,16 @@
 					"color": "#757575",
 					"name": "Tertiary",
 					"slug": "tertiary"
+				},
+				{
+				  "color": "#030303",
+					"name": "Always Dark",
+					"slug": "always-dark"
+				},
+				{
+				  "color": "#fcfcfc",
+					"name": "Always on Dark",
+					"slug": "always-on-dark"
 				}
 			],
 			"text": true
